@@ -131,5 +131,5 @@ OUTPUT:
 <img width="1014" height="566" alt="image" src="https://github.com/user-attachments/assets/62b715eb-9d3d-4a90-9c42-87f56756632e" />
 
 
-RESULT:
+### RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
